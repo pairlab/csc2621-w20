@@ -12,7 +12,6 @@ image: ""
 
 **Course Breadth** M3/RA16
 
-
 **Office hours:** Animesh: Tues 330 -- 430 TBD  TAs: TBD
 
 **Teaching assistants:** [Dylan Turpin](http://www.cs.toronto.edu/~dylanturpin/), TBD

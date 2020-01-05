@@ -1,7 +1,7 @@
-title: CSC2541-F18 Topics in Machine Learning - Deep Reinforcement Learning (Fall 2018)
-description: CSC2541-F18 course website
-sitename: CSC2541-F18
-baseurl: ''
+title: CSC2621 Topics in Robotics - Reinforcement Learning (Winter 2020)
+description: CSC2621-W20 course website
+sitename: CSC2621-W20
+baseurl: '/csc2621-w20/'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
