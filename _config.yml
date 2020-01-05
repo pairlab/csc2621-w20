@@ -3,7 +3,7 @@ description: CSC2621-W20 course website
 sitename: CSC2621-W20
 baseurl: '/csc2621-w20'
 sass:
-  sass_dir: /csc2621-w20/assets/_sass
+  sass_dir: /assets/_sass
   style: :compressed
 collections:
   - contents

@@ -8,11 +8,11 @@ image: ""
 
 |           | Reading                | Topic / Slides
 |-----------|------------------------|---------
-| **Week 1 Sept 12**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 1       | Introduction <br/> [pdf slides](/assets/slides/lec1.pdf) 
+| **Week 1 Sept 12**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 1       | Introduction <br/> [pdf slides]({{ site.baseurl }}/assets/slides/lec1.pdf) 
 | | |
-| **Week 2 Sept 19**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 2-4     | Multi-Armed Bandits, MDPs, Dynamic Programming  <br/> [pdf slides](/assets/slides/lec2.pdf)
+| **Week 2 Sept 19**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 2-4     | Multi-Armed Bandits, MDPs, Dynamic Programming  <br/> [pdf slides]({{ site.baseurl }}/assets/slides/lec2.pdf)
 | | |
-| **Week 3 Sept 26** | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 5-7 | Monte-Carlo and Temporal Difference Learning <br/> [pdf slides](/assets/slides/lec3.pdf) 
+| **Week 3 Sept 26** | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 5-7 | Monte-Carlo and Temporal Difference Learning <br/> [pdf slides]({{ site.baseurl }}/assets/slides/lec3.pdf) 
 |-----------|------------------------|---------
 |  | **Value Function Approximation** |  
 |-----------|------------------------|---------
