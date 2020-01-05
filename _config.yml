@@ -1,0 +1,18 @@
+title: CSC2541-F18 Topics in Machine Learning - Deep Reinforcement Learning (Fall 2018)
+description: CSC2541-F18 course website
+sitename: CSC2541-F18
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - contents
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+markdown: kramdown
+
+theme: jekyll-theme-cayman
