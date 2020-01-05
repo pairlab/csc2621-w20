@@ -10,7 +10,7 @@ image: ""
  
  - **<span style="color:#b32425">New</span> Oct 30**: You are encouraged to upload the link of your presentation slides to the seminar excel sheet.
  
- - **Oct 11**: The course project guideline is now posted. [Guideline](/assets/slides/course_project_guideline.pdf)
+ - **Oct 11**: The course project guideline is now posted. [Guideline]({{page.baseurl}}/assets/slides/course_project_guideline.pdf)
 
  - **Oct 3**: Updated software resources. Enroll on [Piazza](https://piazza.com/utoronto.ca/fall2018/csc2541) to find project partners.
 
