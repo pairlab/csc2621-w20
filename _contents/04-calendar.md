@@ -6,6 +6,8 @@ subheading: Calendar&#58;
 image: ""
 ---
 
+This a draft schedule and is subject to change.  
+
 |           | Reading                | Topic / Slides
 |-----------|------------------------|---------
 | **Week 1 Sept 12**   | [Sutton & Barto](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view), Ch 1       | Introduction <br/> [pdf slides]({{ site.baseurl }}/assets/slides/lec1.pdf) 

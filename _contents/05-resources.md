@@ -1,8 +1,8 @@
 ---
 id: resource
 name: Resource
-heading: Resource
-subheading: Resource&#58;
+heading: Resources
+subheading: Resources&#58;
 image: ""
 ---
 
@@ -33,3 +33,11 @@ image: ""
 || [GCE](https://cloud.google.com/compute/) | Google Compute Engine delivers virtual machines running in Google's innovative data centers and worldwide fiber network.
 |-----------|------------------------|---------
 || [Colab](https://colab.research.google.com) | Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
+|           | | 
+|Related Courses| | [Topics in Machine Learning, Fall 2018](https://csc2541-f18.github.io/#) by Jimmy Ba. 
+|-----------|------------------------|---------
+|| | [Topics in Machine Learning, Fall 2018](https://csc2541-f18.github.io/#) by Jimmy Ba. 
+
+
+
+
