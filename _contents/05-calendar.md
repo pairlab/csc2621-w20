@@ -10,7 +10,7 @@ This a draft schedule and is subject to change.
 
 |Schedule           | Broad Area                | Reading List
 |-----------|------------------------|---------
-|**Week Jan 7** | Course Overview & Intro to RL	||
+|**Week Jan 7** | Course Overview & Intro to RL	|[Human Learning in Atari](https://core.ac.uk/download/pdf/141473125.pdf)|
 |**Week Jan 14** | 	Imitation Learning: supervised	||
 |**Week Jan 21** | 	Policy Gradients	||
 |**Week Jan 28** | 	Actor-Critic Methods+ Value Based methods	||
