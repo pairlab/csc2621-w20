@@ -8,7 +8,7 @@ image: ""
 
 This course will consist of lectures, along with paper presentations & discussions. Along with this there would be two take home midterms, and a group project.
 
-In-Class Paper Presentation: 25%
-Take-Home Midterm: 15%
-Pop-quizzes & Class Participation: 10%
+In-Class Paper Presentation: 25%  
+Take-Home Midterm: 15%  
+Pop-quizzes & Class Participation: 10%  
 Project: 50%

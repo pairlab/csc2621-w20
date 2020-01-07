@@ -15,5 +15,5 @@ image: ""
 **Course Breadth:** M3/RA16  
 **Discussion:** [Quercus](https://q.utoronto.ca/courses/130911)
 
-**Course Staff Email**: TBD
+**Course Staff Email**: TBD  
 **Urgent contact Email**: garg@cs.toronto.edu with subject "CSC2621: <subject_here>"
