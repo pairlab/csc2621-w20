@@ -14,5 +14,6 @@ image: ""
 **Office hours:** AG: Tues 330 -- 430 (after class), Location TBD  //  TAs: TBD  
 **Course Breadth:** M3/RA16  
 **Discussion:** [Quercus](https://q.utoronto.ca/courses/130911)
+
 **Course Staff Email**: TBD
 **Urgent contact Email**: garg@cs.toronto.edu with subject "CSC2621: <subject_here>"
