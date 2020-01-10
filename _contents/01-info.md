@@ -13,7 +13,7 @@ image: ""
 **Lecture hours:** Tuesday 1 -- 3 BA1200  
 **Office hours:** AG: Tues 330 -- 430 (after class), Location TBD  //  TAs: TBD  
 **Course Breadth:** M3/RA16  
-**Discussion:** [Quercus](https://q.utoronto.ca/courses/130911)
+**Discussion:** [Quercus](https://q.utoronto.ca/courses/130911), [Piazza](https://piazza.com/class/k58dhm1uifx2s0)
 
 **Course Staff Email**: TBD  
 **Urgent contact Email**: garg@cs.toronto.edu with subject "CSC2621: <subject_here>"
