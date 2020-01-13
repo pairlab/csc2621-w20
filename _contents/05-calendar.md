@@ -11,7 +11,7 @@ This a draft schedule and is subject to change.
 |Schedule           | Broad Area                | Reading List
 |-----------|------------------------|---------
 |**Week Jan 7** | Course Overview & Intro to RL	|[Human Learning in Atari](https://core.ac.uk/download/pdf/141473125.pdf)|
-|**Week Jan 14** | 	Imitation Learning: supervised	||
+|**Week Jan 14** | 	Imitation Learning: supervised	|Overview:<br />[An Invitation To Imitation](https://www.ri.cmu.edu/publications/an-invitation-to-imitation/),<br />[Dagger: A reduction of imitation learning and structured prediction to no-regret online learning](https://arxiv.org/pdf/1011.0686.pdf),<br /> [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316),<br /> [Behavioral Cloning from Observation](https://www.ijcai.org/proceedings/2018/0687.pdf)<br /><br />Optional: <br />[ALVINN: An autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network.pdf),<br />[ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079),<br />[Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)|
 |**Week Jan 21** | 	Policy Gradients	||
 |**Week Jan 28** | 	Actor-Critic Methods+ Value Based methods	||
 |**Week Jan 28** | 	(before class)	| **<span style="color:#b32425">Project Proposal Due</span>**|
