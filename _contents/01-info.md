@@ -9,7 +9,7 @@ image: ""
 **Instructors:**  [Animesh Garg](http://animesh.garg.tech)  
 **Webpage**: https://pairlab.github.io/csc2621-w20/#
 
-**Teaching assistants:** [Dylan Turpin](http://www.cs.toronto.edu/~dylanturpin/) and [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/)
+**Teaching assistants:** [Dylan Turpin](http://www.cs.toronto.edu/~dylanturpin/) and [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/)  
 **Lecture hours:** Tuesday 1 -- 3 BA1200  
 **Office hours:** AG: Tues 330 -- 430 (after class), Location TBD  //  TAs: TBD  
 **Course Breadth:** M3/RA16  
