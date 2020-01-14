@@ -11,7 +11,7 @@ image: ""
 
 **Teaching assistants:** [Dylan Turpin](http://www.cs.toronto.edu/~dylanturpin/) and [Tingwu Wang](http://www.cs.toronto.edu/~tingwuwang/)  
 **Lecture hours:** Tuesday 1 -- 3 BA1200  
-**Office hours:** AG: Tues 330 -- 430 (after class), Location TBD  //  TAs: TBD  
+**Office hours:** AG: Tues 330 -- 430 (after class), Location PT283E  //  TAs: TBD  
 **Course Breadth:** M3/RA16  
 **Discussion:** [Quercus](https://q.utoronto.ca/courses/130911), [Piazza](https://piazza.com/class/k58dhm1uifx2s0)
 
