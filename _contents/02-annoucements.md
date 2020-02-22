@@ -9,6 +9,7 @@ image: ""
 - **Jan 7**: Welcome.
 - **Jan 10**: [Piazza](https://piazza.com/class/k58dhm1uifx2s0) class created link added. Also, here is the [Rosetta stone paper](https://castlelab.princeton.edu/html/Papers/AIOR_July2012.pdf) mentioned in class.
 - **Jan 21**: [Project guidelines](https://docs.google.com/document/d/e/2PACX-1vRhOIePo-Y7EXp0QaYDfuIoX-06Pr82Y2WTKwAFjjTgPbACEw81rYOaTPWTZMIcMe-72iFMIpEJYLfg/pub) posted
+- **Feb 22**: [Project guidelines](https://docs.google.com/document/d/e/2PACX-1vRhOIePo-Y7EXp0QaYDfuIoX-06Pr82Y2WTKwAFjjTgPbACEw81rYOaTPWTZMIcMe-72iFMIpEJYLfg/pub) updated with proposal info. Midterm progress report extended to February 28 at 11:59PM
 
 <!--  - **<span style="color:#b32425">New</span> Oct 30**: TA hours moved to 3-4PM, Thursday in Pratt 290
 
