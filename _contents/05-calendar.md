@@ -8,11 +8,26 @@ image: ""
 
 This a draft schedule and is subject to change.  
 
-|Schedule           | Broad Area                | Reading List
-|-----------|------------------------|---------
-|**Week Jan 7** | Course Overview & Intro to RL	|Slides:<br /> [Lecture 1](assets/slides/lec1.pdf),<br />[Presentation Template Slides](assets/slides/template.pptx)<br /><br />Papers:<br />[Human Learning in Atari](https://core.ac.uk/download/pdf/141473125.pdf)|
-|**Week Jan 14** | 	Imitation Learning: supervised	|Slides:<br /> [Lecture 2](assets/slides/lec2.pdf), <br />[End To End Learning Slides](assets/slides/lec2_endtoend.pdf),<br />[Behavioural Cloning Slides](assets/slides/lec2_behaviorcloning.pdf)<br /><br /> Overview:<br />[An Invitation To Imitation](https://www.ri.cmu.edu/publications/an-invitation-to-imitation/),<br />[Dagger: A reduction of imitation learning and structured prediction to no-regret online learning](https://arxiv.org/pdf/1011.0686.pdf),<br /> [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316),<br /> [Behavioral Cloning from Observation](https://www.ijcai.org/proceedings/2018/0687.pdf)<br /><br />Optional: <br />[ALVINN: An autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network.pdf),<br />[ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079),<br />[Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)|
-|**Week Jan 21** | 	Policy Gradients	|Slides:<br />[Lecture 3](assets/slides/lec3.pdf),<br />[Policy Gradient Methods](assets/slides/lec3_pgm.pdf)<br /><br />Papers:<br />[Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf),<br />[Trust region policy optimization: deep RL with natural policy gradient and adaptive step size](https://arxiv.org/pdf/1502.05477) (TRPO),<br /> [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (DDPG), <br /> [Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines](https://arxiv.org/pdf/1803.07246.pdf)<br /><br />Optional:<br />SB Ch: 13, <br /> [Reinforcement learning of motor skills with policy gradients](https://www.sciencedirect.com/science/article/pii/S0893608008000701)|
+|Schedule           | Broad Area                | Reading List | Slides
+|-----------|------------------------|---------|-----
+|**Week 1 Jan 7** | Course Overview & Intro to RL	|[Human Learning in Atari](https://core.ac.uk/download/pdf/141473125.pdf)|[Lecture 1 Slides (Animesh Garg)](assets/slides/lec1.pdf)|
+||||[Presentation Template Slides](assets/slides/template.pptx)|
+|**Week 2 Jan 14** | 	Imitation Learning: supervised	|**Overview**||
+|||[An Invitation To Imitation](https://www.ri.cmu.edu/publications/an-invitation-to-imitation/),<br />[Dagger: A reduction of imitation learning and structured prediction to no-regret online learning](https://arxiv.org/pdf/1011.0686.pdf)|[Lecture 2 Slides (Animesh Garg)](assets/slides/lec2.pdf)
+|||[End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)| [Slides (Dylan Turpin)](assets/slides/lec2_endtoend.pdf)
+|||[Behavioral Cloning from Observation](https://www.ijcai.org/proceedings/2018/0687.pdf)| [Slides (Tingwu Wang)](assets/slides/lec2_behaviorcloning.pdf)|
+|||**Optional**|
+|||[ALVINN: An autonomous land vehicle in a neural network](https://papers.nips.cc/paper/95-alvinn-an-autonomous-land-vehicle-in-a-neural-network.pdf)|
+|||[ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/abs/1812.03079)|
+|||[Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)|
+|**Week Jan 21** | 	Policy Gradients	|**Overview**||
+|||[Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)|[Slides (Silviu Pitis)](assets/slides/lec3_pgm.pdf)|
+|||[Trust region policy optimization: deep RL with natural policy gradient and adaptive step size](https://arxiv.org/pdf/1502.05477) (TRPO)||
+|||[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (DDPG)||
+|||[Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines](https://arxiv.org/pdf/1803.07246.pdf)|[Slides (Animesh Garg)](assets/slides/lec3.pdf)|
+|||**Optional**|
+|||SB Ch: 13||
+|||[Reinforcement learning of motor skills with policy gradients](https://www.sciencedirect.com/science/article/pii/S0893608008000701)|
 |**Week Jan 28** | 	Actor-Critic Methods+ Value Based methods	|Slides:<br />[Asynchronous Methods for Deep Reinforcement Learning](assets/slides/lec4_actorcritic.pdf),<br />[Soft Actor-Critic](assets/slides/lec4_sac.pdf)<br /><br />Papers:<br />[Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783),<br />[Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905),<br />[IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561),<br />[High-confidence error estimates for learned value functions](https://arxiv.org/abs/1808.09127)<br /><br />Optional:<br />SB Ch: 13,<br />[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 |
 |**Week Jan 28** | 	(before class)	| **<span style="color:#b32425">Project Proposal Due</span>**|
