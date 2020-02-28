@@ -35,7 +35,6 @@ This a draft schedule and is subject to change.
 |||[High-confidence error estimates for learned value functions](https://arxiv.org/abs/1808.09127)||
 |||**Optional**||
 |||SB Ch: 13||
-|||[Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)||
 |**Jan 28** | 	(before class)	| **<span style="color:#b32425">Project Proposal Due</span>**|
 |**Week 5 Feb 4** | Q-Value based RL| **Core papers**||
 |||[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (DQN)||
@@ -94,8 +93,13 @@ This a draft schedule and is subject to change.
 |||[Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905)||
 |||[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)||
 |||[Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)||
-|**Week 10 Mar 10** | 	Bayesian RL	|[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436),<br />[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348)|
-|**Week Mar 17** | 	Hierarchical RL	|[Building Portable Options: Skill Transfer in Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/144.pdf),<br /> [Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521),<br /> Variational Option Discovery Algorithms|
+|**Week 10 Mar 10** | 	Bayesian RL	| **Core papers**||
+|||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436)||
+|||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348)||
+|**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
+|||[Building Portable Options: Skill Transfer in Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/144.pdf)||
+|||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
+|||Variational Option Discovery Algorithms|
 |**Week Mar 24** | 	Project Presentation	||
 |**Week Mar 31** | 	Project Presentation	||
 |**Week Apr 7** | [Buffer]	||
