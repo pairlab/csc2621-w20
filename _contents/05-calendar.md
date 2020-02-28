@@ -48,7 +48,7 @@ This a draft schedule and is subject to change.
 |||[Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)||
 |**Week 6 Feb 11** | 	Distributional RL ||[Intro Slides (Animesh Garg)](assets/slides/lec6_distributional.pdf)|
 |||**Core papers**||
-|||[A Comparative Analysis of Expected and Distributional Reinforcement Learning](https://arxiv.org/abs/1901.11084)||
+|||[A Comparative Analysis of Expected and Distributional Reinforcement Learning](https://arxiv.org/abs/1901.11084)|[Slides (Jerrod Parker and Shakti Kumar)](assets/slides/lec6_expectedanddistributional.pdf)|
 |||[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/abs/1806.06923)||
 |||[Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/abs/1902.08102)||
 |||[Value Function in Frequency Domain and the Characteristic Value Iteration Algorithm](https://papers.nips.cc/paper/9620-value-function-in-frequency-domain-and-the-characteristic-value-iteration-algorithm)||
@@ -75,8 +75,8 @@ This a draft schedule and is subject to change.
 |**Week 8 Feb 25** | 	Imitation: Inverse RL	|**Core papers**||
 |||[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)||
 |||[Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)||
-|||[Provably Efficient Imitation Learning from Observation Alone](https://arxiv.org/abs/1905.10948)||
-|||[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624)||
+|||[Provably Efficient Imitation Learning from Observation Alone](https://arxiv.org/abs/1905.10948)|[Slides (Zichu Liu)](assets/slides/lec8_observationalone.pdf)|
+|||[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624)|[Slides (Ning Ye)](assets/slides/lec8_offpolicyeval.pdf)|
 |||[Inverse KKT: Learning cost functions of manipulation tasks from demonstrations](https://journals.sagepub.com/doi/abs/10.1177/0278364917745980)||
 |||**Optional**||
 |||[Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374)||
