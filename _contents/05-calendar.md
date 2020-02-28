@@ -39,9 +39,9 @@ This a draft schedule and is subject to change.
 |**Week 5 Feb 4** | Q-Value based RL| **Core papers**||
 |||[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) (DQN)||
 |||[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) (Double DQN),<br />[Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) (Dueling DQN)|[Slides (Haoping Xu)](assets/slides/lec5_ddqn.pdf)|
-|||[QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (Qt-Opt), <br />[Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://arxiv.org/abs/1910.02787)| [Slides (Vismay Modi)](assets/slides/lec5_qtopt.pdf)|
+|||[QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (Qt-Opt), <br />[Quantile QT-Opt for Risk-Aware Vision-Based Robotic Grasping](https://arxiv.org/abs/1910.02787) (Q2-Opt)| [Slides (Vismay Modi)](assets/slides/lec5_qtopt.pdf)|
 |||[Bridging the Gap Between Value and Policy Based Reinforcement Learning](https://arxiv.org/abs/1702.08892) (PCL), <br />[Trust-PCL: An Off-Policy Trust Region Method for Continuous Control](https://arxiv.org/pdf/1707.01891.pdf)|[Slides (Michael Pham-Hung)](assets/slides/lec5_pcl.pdf)|
-|||[Rainbow - Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298),<br />[Impala](https://arxiv.org/abs/1802.01561)|[Slides (Mohan Zhang)](assets/slides/lec5_rainbow.pdf)|
+|||[Rainbow - Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298),<br />[IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)|[Slides (Mohan Zhang)](assets/slides/lec5_rainbow.pdf)|
 |||**Optional**||
 |||[Rainbow is all you need](https://github.com/Curt-Park/rainbow-is-all-you-need) (step-by-step Rainbow tutorial)||
 |||[Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477) (TD3)||
@@ -68,8 +68,8 @@ This a draft schedule and is subject to change.
 |||**Optional**||
 |||[Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057)||
 |||[Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) (PlaNet)||
-|||[Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365)(E2C)||
-|||[Robust locally-linear controllable embedding](https://arxiv.org/abs/1710.05373)(RCE)||
+|||[Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://arxiv.org/abs/1506.07365) (E2C)||
+|||[Robust locally-linear controllable embedding](https://arxiv.org/abs/1710.05373) (RCE)||
 |||[World Models](https://worldmodels.github.io/)||
 |||[Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114) (PETS)||
 |**Week 8 Feb 25** | 	Imitation: Inverse RL	|**Core papers**||
@@ -88,7 +88,8 @@ This a draft schedule and is subject to change.
 |||[Vime: Variational information maximizing exploration](https://arxiv.org/abs/1605.09674)||
 |||[Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](https://arxiv.org/abs/1507.00814)||
 |||[Large-Scale Study of Curiosity-Driven Learning Episodic Curiosity through Reachability](https://arxiv.org/abs/1808.04355)||
-|||[Approximate Exploration through State Abstraction](https://arxiv.org/abs/1808.09819),<br /> [Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995)||
+|||[Approximate Exploration through State Abstraction](https://arxiv.org/abs/1808.09819)|
+|||[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995)||
 |||**Optional**||
 |||[Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905)||
 |||[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)||
@@ -99,7 +100,7 @@ This a draft schedule and is subject to change.
 |**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
 |||[Building Portable Options: Skill Transfer in Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/144.pdf)||
 |||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
-|||Variational Option Discovery Algorithms|
+|||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)|
 |**Week Mar 24** | 	Project Presentation	||
 |**Week Mar 31** | 	Project Presentation	||
 |**Week Apr 7** | [Buffer]	||
