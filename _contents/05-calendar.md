@@ -22,7 +22,7 @@ This a draft schedule and is subject to change.
 |||[Apprenticeship Learning via Inverse Reinforcement Learning](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf)|
 |**Week 3 Jan 21** | 	Policy Gradients	|**Core readings**||
 |||[Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)|[Slides (Silviu Pitis)](assets/slides/lec3_pgm.pdf)|
-|||[Trust region policy optimization: deep RL with natural policy gradient and adaptive step size](https://arxiv.org/pdf/1502.05477) (TRPO)||
+|||[Trust region policy optimization: deep RL with natural policy gradient and adaptive step size](https://arxiv.org/pdf/1502.05477) (TRPO)|[Slides (Jingkang Wang)](assets/slides/lec3_trpo.pdf)|
 |||[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (DDPG)||
 |||[Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines](https://arxiv.org/pdf/1803.07246.pdf)|[Slides (Animesh Garg)](assets/slides/lec3.pdf)|
 |||**Optional**|
@@ -50,7 +50,7 @@ This a draft schedule and is subject to change.
 |||**Core papers**||
 |||[A Comparative Analysis of Expected and Distributional Reinforcement Learning](https://arxiv.org/abs/1901.11084)|[Slides (Jerrod Parker and Shakti Kumar)](assets/slides/lec6_expectedanddistributional.pdf)|
 |||[Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/abs/1806.06923)||
-|||[Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/abs/1902.08102)||
+|||[Statistics and Samples in Distributional Reinforcement Learning](https://arxiv.org/abs/1902.08102)|[Slides (Isaac Waller)](assets/slides/lec6_statsandsamples.pdf)|
 |||[Value Function in Frequency Domain and the Characteristic Value Iteration Algorithm](https://papers.nips.cc/paper/9620-value-function-in-frequency-domain-and-the-characteristic-value-iteration-algorithm)||
 |||[An analysis of categorical distributional reinforcement learning](https://arxiv.org/abs/1802.08163)||
 |||**Optional**||
@@ -59,11 +59,11 @@ This a draft schedule and is subject to change.
 |||[A Distributional Perspective on Reinforcement Learning](https://arxiv.org/pdf/1707.06887.pdf) (C51)||
 |||[Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/abs/1804.08617) (D4PG)||
 |**Week 7 Feb 18** | 	Model-Based RL	|**Core papers**||
-|||[PILCO: Probabilistic Inference for Learning COntrol](http://mlg.eng.cam.ac.uk/carl/pilco/)||
+|||[PILCO: Probabilistic Inference for Learning COntrol](http://mlg.eng.cam.ac.uk/carl/pilco/)|[Slides (Parth Jaggi)](assets/slides/lec7_pilco.pdf)|
 |||[Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees](https://arxiv.org/abs/1807.03858) (SLBO)||
-|||[Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) (MB-MPO)||
+|||[Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) (MB-MPO)|[Slides (Elliot Creager)](assets/slides/lec7_mbmpo.pdf)|
 |||[Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)|[Slides (Haotian Cui)](assets/slides/lec7_dreamtocontrol.pdf)|
-|||[Iterative Value-Aware Model Learning](https://papers.nips.cc/paper/8121-iterative-value-aware-model-learning.pdf) (refer to [supplement](https://papers.nips.cc/paper/8121-iterative-value-aware-model-learning-supplemental.zip) as well)||
+|||[Iterative Value-Aware Model Learning](https://papers.nips.cc/paper/8121-iterative-value-aware-model-learning.pdf) (refer to [supplement](https://papers.nips.cc/paper/8121-iterative-value-aware-model-learning-supplemental.zip) as well)|[Slides (Dami Choi and Chris Zhang)](assets/slides/lec7_ivaml.pdf)|
 |||[Intro to ILQR](https://homes.cs.washington.edu/~todorov/papers/LiICINCO04.pdf)||
 |||**Optional**||
 |||[Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057)||
@@ -73,11 +73,11 @@ This a draft schedule and is subject to change.
 |||[World Models](https://worldmodels.github.io/)||
 |||[Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114) (PETS)||
 |**Week 8 Feb 25** | 	Imitation: Inverse RL	|**Core papers**||
-|||[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)||
-|||[Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)||
+|||[Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)|[Slides (Albert Hsueh)](assets/slides/lec8_gail.pdf)|
+|||[Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf)|[Slides (Naireen Hussain)](assets/slides/lec8_maxentirl.pdf)|
 |||[Provably Efficient Imitation Learning from Observation Alone](https://arxiv.org/abs/1905.10948)|[Slides (Zichu Liu)](assets/slides/lec8_observationalone.pdf)|
 |||[Off-Policy Evaluation via Off-Policy Classification](https://arxiv.org/abs/1906.01624)|[Slides (Ning Ye)](assets/slides/lec8_offpolicyeval.pdf)|
-|||[Inverse KKT: Learning cost functions of manipulation tasks from demonstrations](https://journals.sagepub.com/doi/abs/10.1177/0278364917745980)||
+|||[Inverse KKT: Learning cost functions of manipulation tasks from demonstrations](https://journals.sagepub.com/doi/abs/10.1177/0278364917745980)|[Slides (Yu-Siang Wang)](assets/slides/lec8_inversekkt.pdf)|
 |||**Optional**||
 |||[Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374)||
 |||[Neural Task Graphs: Generalizing to unseen tasks from a single video demonstration](https://arxiv.org/abs/1807.03480)||
