@@ -84,19 +84,19 @@ This a draft schedule and is subject to change.
 |**Feb 28** | 	(released Friday 9:00AM)	| **<span style="color:#b32425">Take Home Midterm Released (24 hours to turn-in)</span>**|
 |**Feb 28** | 	(due Friday 11:59PM)	|**<span style="color:#b32425">Mid-Term Project Report Due</span>**|
 |**Week 9 Mar 3** | Exploration in RL	|**Core papers**||
-|||[Deep Exploration via Bootstrapped DQN](https://arxiv.org/abs/1602.04621)||
-|||[Vime: Variational information maximizing exploration](https://arxiv.org/abs/1605.09674)||
-|||[Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](https://arxiv.org/abs/1507.00814)||
-|||[Large-Scale Study of Curiosity-Driven Learning Episodic Curiosity through Reachability](https://arxiv.org/abs/1808.04355)||
-|||[Approximate Exploration through State Abstraction](https://arxiv.org/abs/1808.09819)|
-|||[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/abs/1901.10995)||
-|||**Optional**||
-|||[Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905)||
-|||[Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)||
 |||[Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)||
+|||[Planning to Be Surprised: Optimal Bayesian Exploration in Dynamic Environments](https://arxiv.org/abs/1103.5708)||
+|||[Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868)||
+|||[Model-Based Active Exploration](https://arxiv.org/abs/1810.12162)||
+|||[VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)||
+|||**Optional**||
+|||[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995.pdf)||
+|||[Skew-Fit: State-Covering Self-Supervised Reinforcement Learning](https://arxiv.org/abs/1903.03698)||
 |**Week 10 Mar 10** | 	Bayesian RL	| **Core papers**||
-|||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436)||
-|||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348)||
+|||[Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search](https://papers.nips.cc/paper/4767-efficient-bayes-adaptive-reinforcement-learning-using-sample-based-search.pdf) (also the [extended version](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/bamcp-jair.pdf))||
+|||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436) ||
+|||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348) ||
+|||[Meta Reinforcement Learning As Task Inference](https://arxiv.org/pdf/1905.06424.pdf) ||
 |**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
 |||[Building Portable Options: Skill Transfer in Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/144.pdf)||
 |||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
