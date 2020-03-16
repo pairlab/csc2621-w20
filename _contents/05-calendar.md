@@ -98,9 +98,16 @@ This a draft schedule and is subject to change.
 |||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348) ||
 |||[Meta Reinforcement Learning As Task Inference](https://arxiv.org/pdf/1905.06424.pdf) ||
 |**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
-|||[Building Portable Options: Skill Transfer in Reinforcement Learning](https://www.ijcai.org/Proceedings/07/Papers/144.pdf)||
-|||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
-|||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)|
+|||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)
+|||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)
+|||[Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1810.01257) (also the precursor: [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1805.08296.pdf))
+|||[FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)
+|||[Double Actor-Critic](https://arxiv.org/abs/1904.12691) (also the precursor: [Option-Critic](https://arxiv.org/abs/1609.05140))
+|||**Optional**||
+|||[Theoretical results on reinforcement learning with temporally abstract options](https://link.springer.com/chapter/10.1007/BFb0026709)
+|||[Learning Abstract Options](https://arxiv.org/abs/1810.11583) (precursor: [The Option-Critic Architecture](https://arxiv.org/abs/1609.05140))
+
+|||[]()
 |**Week Mar 24** | 	Project Presentation	||
 |**Week Mar 31** | 	Project Presentation	||
 |**Week Apr 7** | [Buffer]	||
