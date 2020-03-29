@@ -23,7 +23,7 @@ This a draft schedule and is subject to change.
 |**Week 3 Jan 21** | 	Policy Gradients	|**Core readings**||
 |||[Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)|[Slides (Silviu Pitis)](assets/slides/lec3_pgm.pdf)|
 |||[Trust region policy optimization: deep RL with natural policy gradient and adaptive step size](https://arxiv.org/pdf/1502.05477) (TRPO)|[Slides (Jingkang Wang)](assets/slides/lec3_trpo.pdf)|
-|||[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (DDPG)||
+|||[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) (DDPG)|[Slides (Anqi (Joyce) Yang & Jonah Philion)](assets/slides/lec3_ddpg.pdf)|
 |||[Variance Reduction for Policy Gradient with Action-Dependent Factorized Baselines](https://arxiv.org/pdf/1803.07246.pdf)|[Slides (Animesh Garg)](assets/slides/lec3.pdf)|
 |||**Optional**|
 |||SB Ch: 13||
