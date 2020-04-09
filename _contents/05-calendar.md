@@ -93,13 +93,13 @@ This a draft schedule and is subject to change.
 |||[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995.pdf)||
 |||[Skew-Fit: State-Covering Self-Supervised Reinforcement Learning](https://arxiv.org/abs/1903.03698)||
 |**Week 10 Mar 10** | 	Bayesian RL	| **Core papers**||
-|||[Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search](https://papers.nips.cc/paper/4767-efficient-bayes-adaptive-reinforcement-learning-using-sample-based-search.pdf) (also the [extended version](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/bamcp-jair.pdf))||
-|||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436) ||
+|||[Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search](https://papers.nips.cc/paper/4767-efficient-bayes-adaptive-reinforcement-learning-using-sample-based-search.pdf) (also the [extended version](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/bamcp-jair.pdf))|[Slides (Kevin Xie)](assets/slides/lec10_bayesadaptiverl.pdf)|
+|||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436) |[Slides (Jacob Nogas)](assets/slides/lec10_bayesianrlsurvey.pdf)|
 |||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348) ||
-|||[Meta Reinforcement Learning As Task Inference](https://arxiv.org/pdf/1905.06424.pdf) ||
+|||[Meta Reinforcement Learning As Task Inference](https://arxiv.org/pdf/1905.06424.pdf) |[Slides (Ram Ananth)](assets/slides/lec10_metarlastaskinference.pdf)|
 |**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
 |||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
-|||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)||
+|||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)|[Slides (Harris Chan)](assets/slides/lec11_valor.pdf)|
 |||[Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1810.01257) (also the precursor: [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1805.08296.pdf))||
 |||[FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)||
 |||[Double Actor-Critic](https://arxiv.org/abs/1904.12691) (also the precursor: [Option-Critic](https://arxiv.org/abs/1609.05140))||
