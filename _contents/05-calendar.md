@@ -87,22 +87,22 @@ This a draft schedule and is subject to change.
 |||[Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894)||
 |||[Planning to Be Surprised: Optimal Bayesian Exploration in Dynamic Environments](https://arxiv.org/abs/1103.5708)||
 |||[Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868)||
-|||[Model-Based Active Exploration](https://arxiv.org/abs/1810.12162)||
-|||[VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)||
+|||[Model-Based Active Exploration](https://arxiv.org/abs/1810.12162)|[Slides (Danijar Hafner)](assets/slides/lec9_activeexploration.pdf)|
+|||[VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674)|[Slides (Daniel Flam-Shepherd)](assets/slides/lec9_vime.pdf)|
 |||**Optional**||
 |||[Go-Explore: a New Approach for Hard-Exploration Problems](https://arxiv.org/pdf/1901.10995.pdf)||
 |||[Skew-Fit: State-Covering Self-Supervised Reinforcement Learning](https://arxiv.org/abs/1903.03698)||
 |**Week 10 Mar 10** | 	Bayesian RL	| **Core papers**||
 |||[Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search](https://papers.nips.cc/paper/4767-efficient-bayes-adaptive-reinforcement-learning-using-sample-based-search.pdf) (also the [extended version](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Publications_files/bamcp-jair.pdf))|[Slides (Kevin Xie)](assets/slides/lec10_bayesadaptiverl.pdf)|
 |||[Bayesian Reinforcement Learning: A Survey](https://arxiv.org/abs/1609.04436) |[Slides (Jacob Nogas)](assets/slides/lec10_bayesianrlsurvey.pdf)|
-|||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348) ||
+|||[VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning](https://arxiv.org/abs/1910.08348) |[Slides (Homanga Bharadhwaj)](assets/slides/lec10_varibad.pdf)|
 |||[Meta Reinforcement Learning As Task Inference](https://arxiv.org/pdf/1905.06424.pdf) |[Slides (Ram Ananth)](assets/slides/lec10_metarlastaskinference.pdf)|
 |**Week 11 Mar 17** | 	Hierarchical RL	|**Core papers**||
-|||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)||
+|||[Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0004370299000521)|[Slides (Panteha Naderian)](assets/slides/lec10_mdpsandsemimdps.pdf)|
 |||[Variational Option Discovery Algorithms](https://arxiv.org/pdf/1807.10299.pdf)|[Slides (Harris Chan)](assets/slides/lec11_valor.pdf)|
 |||[Near-Optimal Representation Learning for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1810.01257) (also the precursor: [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1805.08296.pdf))||
-|||[FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)||
-|||[Double Actor-Critic](https://arxiv.org/abs/1904.12691) (also the precursor: [Option-Critic](https://arxiv.org/abs/1609.05140))||
+|||[FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161)|[Slides (Theophile Gaudin)](assets/slides/lec10_feudalnets.pdf)|
+|||[Double Actor-Critic](https://arxiv.org/abs/1904.12691) (also the precursor: [Option-Critic](https://arxiv.org/abs/1609.05140))|[Slides (Ehsan Mehralian)](assets/slides/lec10_optioncriticdoubleactorcritic.pdf)|
 |||**Optional**||
 |||[Theoretical results on reinforcement learning with temporally abstract options](https://link.springer.com/chapter/10.1007/BFb0026709)||
 |||[Learning Abstract Options](https://arxiv.org/abs/1810.11583) (precursor: [Option-Critic](https://arxiv.org/abs/1609.05140))||
